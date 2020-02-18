@@ -1,1 +1,1 @@
-# Django R
+# Django React
